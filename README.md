@@ -1,6 +1,6 @@
-# Digital-literacy-project
-NAME:ANKITA SINGH
-REGISTRATION NUMBER:25MIP10031
+## Digital-literacy-project
+1. NAME:ANKITA SINGH
+2. REGISTRATION NUMBER:25MIP10031
 ## OVERVIEW OF PROJECT
 This project focuses on digital literacy and learning necessary skills to be digitally empowered. I, being a Student Digital Ambassador had to accomplish various tasks covering different areas of the digital world. These tasks included creating an infographic on awareness, building a digital portfolio, exploring coding and collaboration sites, gaining knowledge on email etiquette and an understanding of Cybercrime and Online Safety.
 
