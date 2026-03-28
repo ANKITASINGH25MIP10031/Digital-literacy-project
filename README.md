@@ -19,3 +19,12 @@ I am confident that through this project, I have developed both technical as wel
 #### 5. Cybercrime Awareness & Safety:
    This module focused on understanding different types of cybercrimes such as phishing and online fraud. I learned how these crimes happen and how to stay safe online. It also emphasized the importance of protecting personal information and being cautious while using digital platforms. This module increased my awareness about online threats and safety measures.
 ### LINKS:
+1.  CANVA: https://canva.link/0whvvopgpu82dlp
+2.  GITHUB:https://github.com/ANKITASINGH25MIP10031/ANKITA-SINGH-25MIP10031.git
+3.  Kaggle:kaggle.com
+4.  Linked-in:https://www.linkedin.com/in/ankita-singh-677706380?utm_source=share_via&utm_content=profile&utm_medium=member_android
+5.  Form link:-https://docs.google.com/forms/d/e/1FAIpQLScolUgfak2x3Ju6nQNbt5kSwkmEoITpOC_z_zF3Uifj-YEEjQ/viewform?usp=header
+   Google sheets link:https://docs.google.com/spreadsheets/d/1fVoT8yJc4fhe-bR0NT58ACTds-BG3E0ID1De-3pP7y8/edit?usp=sharing
+6. Hacker rank:hackerrank.com
+7. cybercrime:cybercrime.gov.in
+
